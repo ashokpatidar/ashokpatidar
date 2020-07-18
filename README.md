@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Find me around the web 🌎:
-- twitter: https://twitter.com/ashokpatidar
+- Twitter: https://twitter.com/ashokpatidar
 - Linkedin: https://www.linkedin.com/in/patidarashok/
 
 Front End JavaScript Engineer
